@@ -1,0 +1,32 @@
+.contenido {
+            height: 500px;
+            background-color: white;
+            border-radius: 1%;
+        }
+        .rowcontenido{
+            height: 600px;
+            background-color: #D1CAC9;
+        }
+        .letter{
+            font:lighter  roboto-thin,roboto,sans-serif;
+            color: #B5B5B5;
+        }
+        .letters{
+            font:lighter  roboto-thin,roboto,sans-serif2
+            color: #B5B5B5;
+            letter-spacing:0.1em;
+        }
+        hr{
+            width: 40px;
+            background-color: #B5B5B5;
+        }
+        .fotters{
+            background-color: #2F2E2E;
+            height: 150px;
+        }
+        .iconns{
+            color: white;
+        }
+        .divAling{
+            display: inline;
+        }
