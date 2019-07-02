@@ -1,3 +1,4 @@
+
 .contenido {
             height: 500px;
             background-color: white;
@@ -30,3 +31,67 @@
         .divAling{
             display: inline;
         }
+
+.navColor{
+    background-color:white;
+    
+}
+
+
+.letraHeader{
+
+    font: lighter 16px/2em Open Sans lighter,sans-serif;
+    color:black;
+    margin: 10px;
+}
+
+.contenedorHeader{
+    top: 0; 
+    
+    width: 100%;
+    position: fixed;
+    
+}
+
+
+.contenedorFondo{
+
+  width: 100%;
+  height: 15%;
+}
+#myVideo {
+    position: fixed;
+    top: 800;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  }
+  .content {
+    
+   
+    color: #f1f1f1;
+
+    margin: 25%;
+    margin-left: 30%;
+    
+
+    height: 100px;
+    width: 100px;
+    position: fixed;
+
+  }  
+  #logo{
+
+    border-radius: 50%;
+  }
+
+  
+
+
+   
+
+
+
+
